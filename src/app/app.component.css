@@ -1,0 +1,128 @@
+.header{
+   left: 45%;
+    position: absolute;
+    color: white;
+}
+.image{
+    max-height:100%;
+    width: 100%;
+}
+.card-car-icon{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 10%;
+    width:10%;
+    border-radius: 50% 50% 50% 50%;
+    padding: 0px;
+    background-color: orangered;
+}
+.icons{
+    color: black;
+    font-size: 500%;  
+    position: absolute;
+    margin-left:25%;
+    cursor: pointer;
+}
+.card-car-audi{
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    height: 10%;
+    width:10%;
+    padding: 0px;
+    border-radius: 50% 50% 50% 50%;
+    background-color: paleturquoise;
+}
+.card-car-bmw{
+    position: absolute;
+    left: 70%;
+    top: 50%;
+    height: 10%;
+    width:10%;
+    border-radius: 50% 50% 50% 50%;
+    padding: 0px;
+    border-color: white;
+    background-color: paleturquoise;
+}
+.card-car-benz{
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    height: 10%;
+    width:10%;
+    border-radius: 50% 50% 50% 50%;
+    padding: 0px;
+    border-color: white;
+    background-color: paleturquoise;
+}
+.button{
+    color: black;
+    position: relative;
+    margin-left: 25%; 
+    margin-top: 12%;
+}
+
+.card-car-maruti{
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    height: 10%;
+    width:10%;
+    border-radius: 50% 50% 50% 50%;
+    padding: 0px;
+    border-color: white;
+    background-color: paleturquoise;
+}
+
+.card-car-honda{
+    position: absolute;
+    left: 62%;
+    top: 39%;
+    height: 10%;
+    width:10%;
+    border-radius: 50% 50% 50% 50%;
+    padding: 0px;
+    border-color: white;
+    background-color: paleturquoise;
+}
+.card-car-hyndai{
+    position: absolute;
+    left: 37%;
+    top: 37%;
+    height: 10%;
+    width:10%;
+    border-radius: 50% 50% 50% 50%;
+    padding: 0px;
+    border-color: white;
+    background-color: paleturquoise;
+}
+
+.card-car-tata{
+    position: absolute;
+    left: 62%;
+    top: 65%;
+    height: 10%;
+    width:10%;
+    border-radius: 50% 50% 50% 50%;
+    padding: 0px;
+    border-color: white;
+    background-color: paleturquoise;
+}
+
+.card-car-mahendra{
+    position: absolute;
+    left: 37%;
+    top: 65%;
+    height: 10%;
+    width:10%;
+    border-radius: 50% 50% 50% 50%;
+    padding: 0px;
+    border-color: white;
+    background-color: paleturquoise;
+}
+.content-image{
+    margin-left: 1%;
+    height: 10%;
+    width: 30%;
+}
